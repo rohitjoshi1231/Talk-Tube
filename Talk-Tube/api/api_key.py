@@ -1,5 +1,4 @@
 def my_api_key():
-    return 'AIzaSyBcu_KZ8GZKS5bQ0VNHeWKXHi4FKDBFy0s'
-
+    return 'Your api key '
 
 my_api_key()
